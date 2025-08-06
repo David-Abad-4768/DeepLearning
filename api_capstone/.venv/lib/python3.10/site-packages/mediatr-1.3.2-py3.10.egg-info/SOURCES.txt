@@ -1,0 +1,14 @@
+LICENSE.APACHE2
+LICENSE.mit
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+mediatr/__init__.py
+mediatr/_version.py
+mediatr/exceptions.py
+mediatr/mediator.py
+mediatr.egg-info/PKG-INFO
+mediatr.egg-info/SOURCES.txt
+mediatr.egg-info/dependency_links.txt
+mediatr.egg-info/top_level.txt
